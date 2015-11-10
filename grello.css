@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+ul.list-group.tasks > li:nth-child(1) {
+    text-align: center;
+    height:4em;
+}
+
+ul.list-group.tasks > li {
+    text-align: center;
+    height:3.5em;
+}
